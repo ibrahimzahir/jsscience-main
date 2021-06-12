@@ -12,7 +12,7 @@ const About = () => {
           <div className="md:flex">
             <div className="sm:flex-shrink-0 md:flex-shrink-0">
               <img
-                className="max-h-52 w-full object-cover md:h-full md:w-48"
+                className="max-h-80 w-full object-cover md:h-full md:w-48"
                 src="/sheesh.png"
                 alt="shanif"
               />
@@ -36,7 +36,7 @@ const About = () => {
           <div className="md:flex">
             <div className="md:flex-shrink-0">
               <img
-                className="max-h-52 w-full object-cover md:h-full md:w-48"
+                className="max-h-80 w-full object-cover md:h-full md:w-48"
                 src="/jeen.png"
                 alt="jeen"
               />
