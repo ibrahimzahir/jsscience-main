@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <div className="col-span-1 text-center text-xl font-bold m-8 p-4">
-        <h1>Little bit About US...</h1>
+        <h1>Little bit About Us...</h1>
       </div>
 
       <div className="grid grid-col m-4">
@@ -12,7 +12,7 @@ const About = () => {
           <div className="md:flex">
             <div className="sm:flex-shrink-0 md:flex-shrink-0">
               <img
-                className="max-h-full w-full object-cover md:h-full md:w-48"
+                className="max-h-52 w-full object-cover md:h-full md:w-48"
                 src="/sheesh.png"
                 alt="shanif"
               />
@@ -36,7 +36,7 @@ const About = () => {
           <div className="md:flex">
             <div className="md:flex-shrink-0">
               <img
-                className="max-h-full w-full object-cover md:h-full md:w-48"
+                className="max-h-52 w-full object-cover md:h-full md:w-48"
                 src="/jeen.png"
                 alt="jeen"
               />
